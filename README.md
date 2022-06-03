@@ -36,7 +36,8 @@
 <br>
 <h3> Github Stats </h3> <br>
 
-
+<hr>
+  
 [![Tehyoyee's github stats](https://github-readme-stats.vercel.app/api?username=tehyoyee)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
