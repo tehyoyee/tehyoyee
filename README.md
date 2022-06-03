@@ -1,7 +1,11 @@
+**Name : Taehyeong Kim**
+
+- Interested in Backend.
+- Studying in 42 Seoul Academy.
+- Majored in Robotics.
 
 
-
-<div align=center><h1>📚 TECH STACKS</h1></div>
+<div align=center><h2>📚 TECH STACKS</h2></div>
 
 <div align=center>
   
