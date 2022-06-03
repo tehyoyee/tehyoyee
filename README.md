@@ -25,6 +25,7 @@
   <h3> Once Used </h3>
   <img src="https://img.shields.io/badge/matlab-3776AB?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
+  <hr>
   <br>
   <br>
   
