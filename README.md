@@ -26,17 +26,15 @@
   <img src="https://img.shields.io/badge/matlab-3776AB?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
   <hr>
-  <br>
-  <br>
   
 <h3> BOJ Profile </h3>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mechicast)](https://solved.ac/mechicast/)
-
 <br>
+  <br>
   <hr>
 <h3> Github Stats </h3> <br>
-  
+
 [![Tehyoyee's github stats](https://github-readme-stats.vercel.app/api?username=tehyoyee)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
