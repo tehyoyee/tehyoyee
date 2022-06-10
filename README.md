@@ -4,6 +4,7 @@
 - Studying in 42 Seoul Academy.
 - Majored in Robotics.
 
+- [My Blog](https://tehyoyee.github.io/)
 
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
