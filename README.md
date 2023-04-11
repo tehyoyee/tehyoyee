@@ -5,6 +5,8 @@
 - Majored in Robotics.
 
 - [My Blog](https://tehyoyee.github.io/)
+
+Stack : Spring MySQL C C++ Java Python
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
