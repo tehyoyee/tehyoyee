@@ -6,7 +6,7 @@
 
 - [My Blog](https://tehyoyee.github.io/)
 
-Stack : Spring MySQL C C++ Java Python
+- Spring MySQL C C++ Java Python
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
@@ -29,10 +29,12 @@ Stack : Spring MySQL C C++ Java Python
   <img src="https://img.shields.io/badge/matlab-3776AB?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
   <hr>
-  
+-->
+
 <h3> BOJ Profile </h3>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mechicast)](https://solved.ac/mechicast/)
+
 <br>
   <br>
   <hr>
