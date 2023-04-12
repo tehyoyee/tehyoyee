@@ -6,7 +6,7 @@
 
 - [My Blog](https://tehyoyee.github.io/)
 
-- Spring MySQL C C++ Java Python
+- Spring MySQL C C++ Java Python Slack Notion ...
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
