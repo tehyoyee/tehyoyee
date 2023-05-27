@@ -9,7 +9,7 @@
 - SpringBoot JPA
 - AWS EC2 RDS
 - Travis CI
-- Java Python C C++
+- Java Python C C++ HTML/CSS Javascript
 - Slack Notion ...
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
