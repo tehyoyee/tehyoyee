@@ -4,9 +4,13 @@
 - Studying in 42 Seoul Academy.
 - Majored in Robotics.
 
-- [My Blog](https://tehyoyee.github.io/)
+<!-- [My Blog](https://tehyoyee.github.io/) -->
 
-- SpringBoot Java Python C C++ Slack Notion ...
+- SpringBoot JPA
+- AWS EC2 RDS
+- Travis CI
+- Java Python C C++
+- Slack Notion ...
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
