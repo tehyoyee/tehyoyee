@@ -9,8 +9,8 @@
 - SpringBoot JPA
 - AWS EC2 RDS
 - Travis CI
-- Java Python C C++ HTML/CSS Javascript
-- Slack Notion ...
+- Java Python C C++ HTML/CSS
+- Intellij Slack Notion ...
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
@@ -36,7 +36,7 @@
 -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehyoyee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=tehyoyee&show_icons=true">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=tehyoyee&show_icons=true">-->
 
 
 
