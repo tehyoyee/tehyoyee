@@ -6,9 +6,11 @@
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 
-- SpringBoot JPA
+- SpringBoot JPA NestJS TypeORM Jwt Socket.io
 - AWS EC2 RDS
+- Docker DockerCompose
 - Travis CI
+- Mysql MariaDB PostgreSQL
 - Java Python C C++ HTML/CSS
 - Intellij Slack Notion ...
 <!--
