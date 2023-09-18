@@ -6,12 +6,12 @@
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 
-- SpringBoot JPA NestJS TypeORM Jwt Socket.io
-- AWS EC2 RDS
+- SpringBoot JPA SpringSecurity NestJS TypeORM Jwt Socket.io
+- AWS EC2 RDS CodeDeploy
 - Docker DockerCompose
 - Travis CI
 - Mysql MariaDB PostgreSQL
-- Java Python C C++ HTML/CSS
+- Java Python C C++ HTML/CSS Typescript
 - Intellij Slack Notion ...
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
