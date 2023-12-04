@@ -1,17 +1,19 @@
 **Name : Taehyeong Kim**
 
 <!-- - Interested in Backend. -->
-- Studying in 42 Seoul Academy.
-- Majored in Robotics.
+- Studying in 42 Seoul Academy. since 2021.11.
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 
-- SpringBoot JPA SpringSecurity NestJS TypeORM Jwt Socket.io
-- AWS EC2 RDS CodeDeploy
-- Docker DockerCompose
+- SpringBoot SpringJPA SpringSecurity SpringMVC
+- NestJS TypeORM
+- NextJS React
+- Jwt Socket.io
+- AWS EC2 RDS CodeDeploy S3
+- Docker Nginx
 - Travis CI
-- Mysql MariaDB PostgreSQL
-- Java Python C C++ HTML/CSS Typescript
+- Mysql MariaDB PostgreSQL MongoDB
+- Java Python C C++ HTML/CSS Javascript Typescript
 - Intellij Slack Notion ...
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
