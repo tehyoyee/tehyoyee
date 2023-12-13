@@ -1,11 +1,12 @@
 **Name : Taehyeong Kim**
 
 <!-- - Interested in Backend. -->
-- Studying in 42 Seoul Academy. since 2021.11.
+- 2021.11. ~ 42 Seoul (Member)
+- 2023.12. ~ Groomthon Training
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
-
-- SpringBoot SpringJPA SpringSecurity SpringMVC
+- Java Python C C++ HTML/CSS Javascript Typescript
+- SpringBoot SpringJPA SpringSecurity
 - NestJS TypeORM
 - NextJS React
 - Jwt Socket.io
@@ -13,8 +14,7 @@
 - Docker Nginx
 - Travis CI
 - Mysql MariaDB PostgreSQL MongoDB
-- Java Python C C++ HTML/CSS Javascript Typescript
-- Intellij Slack Notion ...
+- Intellij Slack Notion
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
