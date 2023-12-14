@@ -12,7 +12,7 @@
 - **Mysql MariaDB PostgreSQL MongoDB**
 - **Docker**
 - **Jwt Socket.io**
-  <br>
+  <br><br>
 - NextJS React
 - Python C++ HTML/CSS Javascript Typescript
 - AWS EC2 RDS CodeDeploy S3
