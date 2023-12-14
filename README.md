@@ -6,15 +6,17 @@
 - 2023.12. ~ Groomthon Training
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
-- **Java** Python **C** C++ HTML/CSS Javascript Typescript
+- **Java** **C**
 - **SpringBoot SpringJPA SpringSecurity**
 - **NestJS TypeORM**
-- NextJS React
-- **Jwt Socket.io**
-- AWS EC2 RDS CodeDeploy S3
-- **Docker** Nginx
-- Travis CI
 - **Mysql MariaDB PostgreSQL MongoDB**
+- **Docker**
+- **Jwt Socket.io**
+  <br>
+- NextJS React
+- Python C++ HTML/CSS Javascript Typescript
+- AWS EC2 RDS CodeDeploy S3
+- Nginx Travis CI
 - Intellij Slack Notion
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
