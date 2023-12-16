@@ -17,7 +17,7 @@
 - Python C++ HTML/CSS Javascript Typescript
 - AWS EC2 RDS CodeDeploy S3
 - Nginx Travis CI
-- Intellij Slack Notion
+- Intellij VSCode Slack Notion
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
