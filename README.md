@@ -3,7 +3,6 @@
 <!-- - Interested in Backend. -->
 - 2016.03. ~ 2021.02. Kwangwoon Univ.
 - 2021.11. ~ 42 Seoul (Member)
-- 2023.12. ~ Groomthon Training
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
