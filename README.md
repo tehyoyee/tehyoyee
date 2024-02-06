@@ -11,7 +11,7 @@
 - **Mysql MariaDB PostgreSQL MongoDB**
 - **AWS ElasticBeanstalk ACM Route53 S3 Codedeploy EC2 RDS**
 - **Docker Nginx**
-- **GithubAction TravisCI
+- **GithubAction TravisCI**
 - **Jwt Socket.io**
   <br><br>
 - NextJS React
