@@ -10,6 +10,7 @@
 - **NestJS TypeORM**
 - **Mysql MariaDB PostgreSQL MongoDB**
 - **AWS ElasticBeanstalk ACM Route53 S3 Codedeploy EC2 RDS**
+- **Vercel**
 - **Docker Nginx**
 - **GithubAction TravisCI**
 - **Jwt Socket.io**
