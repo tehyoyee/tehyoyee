@@ -9,13 +9,13 @@
 - **SpringBoot SpringJPA SpringSecurity**
 - **NestJS TypeORM**
 - **Mysql MariaDB PostgreSQL MongoDB**
-- **Docker**
+- **AWS ElasticBeanstalk ACM Route53 S3 Codedeploy EC2 RDS**
+- **Docker Nginx**
+- **GithubAction TravisCI
 - **Jwt Socket.io**
   <br><br>
 - NextJS React
 - Python C++ HTML/CSS Javascript Typescript
-- AWS EC2 RDS CodeDeploy S3
-- Nginx Travis CI
 - Intellij VSCode Slack Notion
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
