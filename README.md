@@ -6,14 +6,14 @@
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
-- **SpringBoot SpringJPA SpringSecurity**
-- **NestJS TypeORM**
-- **Mysql MariaDB PostgreSQL MongoDB**
-- **AWS ElasticBeanstalk ACM Route53 S3 Codedeploy EC2 RDS**
-- **Vercel**
+- **SpringBoot  SpringJPA  SpringSecurity**
+- **NestJS  TypeORM**
+- **Redis  Mysql  MariaDB  PostgreSQL  MongoDB**
+- **AWS  Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS**
+- **Github Action  Vercel**
 - **Docker Nginx**
 - **GithubAction TravisCI**
-- **Jwt Socket.io**
+- **Jwt Socket**
   <br><br>
 - NextJS React
 - Python C++ HTML/CSS Javascript Typescript
