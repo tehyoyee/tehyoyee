@@ -1,14 +1,22 @@
 **Name : Taehyeong Kim**
+<br>
 
-<!-- - Interested in Backend. -->
 - 2016.03. ~ 2021.02. Kwangwoon Univ.
 - 2021.11. ~ 42 Seoul (Member)
+<br>
+
+- 미니 프로젝트 성향검사(CSS수정중) https://find-your-pizza.site
+- 혼자 만들어가는 사이트(개발 보류) https://actionvoca.com
+- 현재 42서울 4명의 팀원들과 (열심히 ing) https://pintogether.co.kr
+<br>
+
+<!-- - Interested in Backend. -->
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
 - **SpringBoot  SpringJPA  SpringSecurity**
 - **NestJS  TypeORM**
-- **Redis  Mysql  MariaDB  PostgreSQL  MongoDB**
+- **Mysql  MariaDB**  PostgreSQL  MongoDB
 - **AWS  Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS**
 - **Github Action  Vercel**
 - **Docker Nginx**
