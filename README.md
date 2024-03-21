@@ -5,9 +5,10 @@
 - 2021.11. ~ 42 Seoul (Member)
 <br>
 
-- 미니 프로젝트. 성향검사(CSS수정중) [REPO](https://github.com/tehyoyee/find-your-pizza) https://find-your-pizza.site
-- 혼자 천천히 만들고 있는 사이트(개발 보류) https://actionvoca.com
 - 현재 42서울 4명의 팀원들과 (열심히 ing) [ORGANIZATION](https://github.com/PinTogether) https://pintogether.co.kr
+- 혼자 천천히 만들고 있는 사이트(개발 보류) https://actionvoca.com
+- 웹 게임 [REPO](https://github.com/tehyoyee/chatting-game-42-transcendence)
+- 미니 프로젝트. 성향검사(CSS수정중) [REPO](https://github.com/tehyoyee/find-your-pizza) https://find-your-pizza.site
 <br>
 
 <!-- - Interested in Backend. -->
