@@ -15,18 +15,20 @@
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
-- **SpringBoot  SpringJPA  SpringSecurity**
+- **SpringBoot  SpringDataJPA  SpringSecurity**
 - **NestJS  TypeORM**
 - **Mysql  MariaDB**  PostgreSQL  MongoDB
-- **AWS  Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS**
+- **AWS** ( Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS )
 - **Github Action  Vercel**
 - **Docker Nginx**
 - **GithubAction TravisCI**
 - **Jwt Socket**
+- Elastic Stack ( Beats, LogStash, ElasticSearch, Kibana )
   <br><br>
 - NextJS React
 - Python C++ HTML/CSS Javascript Typescript
-- Intellij VSCode Slack Notion
+- Ubuntu
+- Intellij VSCode Slack Notion Vim
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
