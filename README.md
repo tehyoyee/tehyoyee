@@ -6,7 +6,7 @@
 <br>
 
 - 지도 즐겨찾기 기반 SNS [ORGANIZATION](https://github.com/PinTogether) https://pintogether.co.kr
-- 혼자 천천히 만들고 있는 사이트(개발 중) https://actionvoca.com
+- 혼자 천천히 만들고 있는 영단어 사이트(개발 중) https://actionvoca.com
 - 웹 게임 [REPO](https://github.com/tehyoyee/chatting-game-42-transcendence)
 - 심심풀이용 미니 프로젝트. 나의 피자 찾기 https://find-your-pizza.site
 <br>
@@ -15,7 +15,7 @@
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
-- **SpringBoot  SpringDataJPA  SpringSecurity**
+- **SpringBoot  SpringDataJPA  SpringSecurity SpringSocket**
 - **NestJS  TypeORM**
 - **Mysql  MariaDB**  PostgreSQL  MongoDB
 - **AWS** ( Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS )
@@ -23,7 +23,7 @@
 - **Docker Nginx**
 - **GithubAction TravisCI**
 - **Jwt Socket**
-- Elastic Stack ( Beats, LogStash, ElasticSearch, Kibana )
+- Elastic Search
   <br><br>
 - NextJS React
 - Python C++ HTML/CSS Javascript Typescript
