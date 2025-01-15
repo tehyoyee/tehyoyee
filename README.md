@@ -1,34 +1,33 @@
 **Name : Taehyeong Kim**
 <br>
 
-- 2016.03. ~ 2021.02. Kwangwoon Univ.
+- 2016.03. ~ 2021.02. Kwangwoon Univ. Robotics
 - 2021.11. ~ 42 Seoul (Member)
 <br>
 
 - 지도 즐겨찾기 기반 SNS [ORGANIZATION](https://github.com/PinTogether) https://pintogether.co.kr
-- 혼자 천천히 만들고 있는 영단어 사이트(개발 중) https://actionvoca.com
-- 웹 게임 [REPO](https://github.com/tehyoyee/chatting-game-42-transcendence)
-- 심심풀이용 미니 프로젝트. 나의 피자 찾기 https://find-your-pizza.site
+- 영단어 https://actionvoca.com
+- 웹 채팅&핑퐁 게임 [REPO](https://github.com/tehyoyee/chatting-game-42-transcendence)
 <br>
 
 <!-- - Interested in Backend. -->
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
-- **SpringBoot  SpringDataJPA  SpringSecurity SpringSocket SpringCloud**
+- **SpringBoot  SpringDataJPA SpringSecurity SpringSocket SpringCloud**
 - **NestJS  TypeORM**
+- NetflixEureka Prometheus Grafana ElasticSearch LogStash Kibana
 - **Mysql  MariaDB**  PostgreSQL  MongoDB
 - **AWS** ( Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS )
 - **Github Action  Vercel**
 - **Docker Nginx**
 - **GithubAction TravisCI**
 - **Jwt Socket**
-- Elastic Search
   <br><br>
-- NextJS React
+- NextJS React(Redux, Zustand) Styled-Components
 - Python C++ HTML/CSS Javascript Typescript
 - Ubuntu
-- Intellij VSCode Slack Notion Vim
+- Intellij VSCode Slack Notion
 <!--
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
