@@ -14,13 +14,13 @@
 
 <!-- [My Blog](https://tehyoyee.github.io/) -->
 - **Java** **C**
-- **SpringBoot  SpringDataJPA SpringSecurity SpringSocket SpringCloud**
+- **SpringBoot SpringDataJPA SpringSecurity SpringSocket SpringCloud QueryDSL**
 - **NestJS  TypeORM**
-- NetflixEureka Prometheus Grafana ElasticSearch LogStash Kibana
-- **Mysql  MariaDB**  PostgreSQL  MongoDB
+- Netflix-Eureka Prometheus Grafana ElasticSearch Beats LogStash Kibana
+- **Mysql  MariaDB**  PostgreSQL  MongoDB ElasticSearch
 - **AWS** ( Amplify  ElasticBeanstalk  ACM  Route53  S3  Codedeploy  EC2  RDS )
 - **Github Action  Vercel**
-- **Docker Nginx**
+- **Docker** Nginx
 - **GithubAction TravisCI**
 - **Jwt Socket**
   <br><br>
